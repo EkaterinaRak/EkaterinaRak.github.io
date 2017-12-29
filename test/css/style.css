@@ -1,0 +1,33 @@
+.uk-slidenav-position{
+    width: 50vw;
+    margin: 20px auto;
+}
+.uk-slideshow li {
+    height: 250px;
+}
+.uk-slideshow li h2,
+.uk-slideshow li p
+{  
+    position: relative;
+    text-align: center;
+    font-size: 4em;
+    line-height: 1em;
+}
+.section{
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: center;
+
+
+}
+.news-block{
+    margin: 20px;
+    text-align: center;
+
+
+
+}
+.news-block img{
+    width: 10vw;
+    height: 20vh;
+}
